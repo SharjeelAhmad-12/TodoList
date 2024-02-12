@@ -37,8 +37,10 @@
     border: none;
     margin: 3px;
     border-radius: 4px;
+     transition: 0.5s;
 }
 .icon:hover{
+    transform: scale(1.5);
     color: red;
 }
 .icon-pencil:hover{
